@@ -1,10 +1,4 @@
 {
-  "metadata": {
-    "name": "Nordic Blue",
-    "author": "Nicolas",
-    "version": "1.0.0",
-    "license": "MIT"
-  },
   "compatible_des": [
     {
       "desktop": "GNOME",
