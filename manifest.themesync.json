@@ -7,7 +7,7 @@
   },
   "compatible_des": [
     {
-      "desktop": "gnome",
+      "desktop": "GNOME",
       "version_constraint": ">=45.0"
     }
   ],
